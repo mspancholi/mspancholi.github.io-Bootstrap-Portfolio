@@ -7,11 +7,6 @@ body {
   background: url("../images/concrete_seamless.png");
 }
 
-/* navbar */
-/* TODO:
-   - need to create | between links
-   - need to get nav-brand to touch bottom of container */
-
 .navbar {
   border-bottom: 2px solid #dddddd;
 }
